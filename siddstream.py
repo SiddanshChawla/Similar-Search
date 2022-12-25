@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-from tqdm import tqdm
 import authorization
 import time
 import random
