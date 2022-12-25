@@ -1,10 +1,6 @@
 import streamlit as st
 import pandas as pd
-import authorization
-import time
-import random
 import numpy as np
-from numpy.linalg import norm
 import tekore
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
