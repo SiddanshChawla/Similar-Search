@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import tekore
 import spotipy
+from numpy.linalg import norm
 from spotipy.oauth2 import SpotifyOAuth
 from spotipy.oauth2 import SpotifyClientCredentials
 import os
