@@ -1,0 +1,7 @@
+streamlit
+tekore
+spotipy
+pandas
+numpy
+time
+random
